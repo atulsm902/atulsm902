@@ -1,30 +1,128 @@
-<h1 align="center">Hi 👋, I'm Atul Mishra</h1>
-<h3 align="center">DSA & Problem Solving | Full-Stack Web Development | Exploring AI & Machine Learning</h3>
+<!-- Hacker-themed profile README for atulsm902 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsm902&label=Profile%20views&color=0e75b6&style=flat" alt="atulsm902" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsm902" alt="atulsm902" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=Atul%20Mishra&fontColor=00ff41&fontSize=52&fontAlignY=38&desc=root@atulsm902:~%23&descAlignY=60&descSize=18" alt="Atul Mishra banner" />
 
-- 🌱 I’m currently learning **DSA, Web Dev**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=DSA+%26+Problem+Solving;Full-Stack+Web+Development;Exploring+AI+%26+Machine+Learning;Building+things+one+commit+at+a+time" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **Currently nothing**
+<br/>
 
-- 📫 How to reach me **atulsmishra902@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=atulsm902&label=PROFILE%20VIEWS&color=00ff41&labelColor=0d1117&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/atulsm902?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" alt="Followers" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atul-mishra-519337397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-mishra-519337397" height="30" width="40" /></a>
-<a href="https://kaggle.com/aatulmishraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aatulmishraa" height="30" width="40" /></a>
-<a href="https://instagram.com/aatul.mishraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aatul.mishraa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atulsm902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atulsm902" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/atulmishywm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atulmishywm1" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulsm902&show_icons=true&locale=en&layout=compact" alt="atulsm902" /></p>
+## `> whoami`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulsm902&show_icons=true&locale=en" alt="atulsm902" /></p>
+```bash
+$ cat atul.json
+{
+  "name"     : "Atul Mishra",
+  "role"     : "Student | Developer",
+  "focus"    : ["DSA", "Problem Solving", "Full-Stack Web Dev", "AI & ML"],
+  "learning" : ["DSA", "Web Development"],
+  "status"   : "compiling... 0 errors, 0 warnings",
+  "contact"  : "atulsmishra902@gmail.com"
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulsm902&" alt="atulsm902" /></p>
+---
+
+## `> ls ~/skills`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,bootstrap,git,github,vscode&theme=dark" alt="Skills" />
+
+</div>
+
+---
+
+## `> ./stats.sh`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=atulsm902&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="GitHub stats: stars, commits, PRs, issues" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsm902&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top languages" />
+
+</div>
+
+---
+
+## `> git streak`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=atulsm902&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `> git log --graph --contributions`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulsm902&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20%2F%20Commit%20Activity" alt="Contribution and commit activity graph" />
+
+</div>
+
+---
+
+## `> ./trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=atulsm902&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## `> ls ~/projects/featured`
+
+> Replace `REPO_NAME_1`, `REPO_NAME_2`, ... with the exact names of your repositories.
+
+<div align="center">
+
+<a href="https://github.com/atulsm902/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsm902&repo=REPO_NAME_1&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Featured project 1" />
+</a>
+<a href="https://github.com/atulsm902/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsm902&repo=REPO_NAME_2&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Featured project 2" />
+</a>
+<br/>
+<a href="https://github.com/atulsm902/REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsm902&repo=REPO_NAME_3&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Featured project 3" />
+</a>
+<a href="https://github.com/atulsm902/REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atulsm902&repo=REPO_NAME_4&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Featured project 4" />
+</a>
+
+</div>
+
+---
+
+## `> ping atul`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/atul-mishra-519337397"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/aatulmishraa"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=00ff41" alt="Kaggle" /></a>
+<a href="https://www.leetcode.com/atulsm902"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff41" alt="LeetCode" /></a>
+<a href="https://auth.geeksforgeeks.org/user/atulmishywm1"><img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00ff41" alt="GeeksforGeeks" /></a>
+<a href="https://instagram.com/aatul.mishraa"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram" /></a>
+<a href="mailto:atulsmishra902@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22;exit+0" alt="Footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" alt="Footer" />
+
+</div>
